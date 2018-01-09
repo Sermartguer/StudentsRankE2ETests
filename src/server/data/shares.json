@@ -1,0 +1,9 @@
+{
+  "shares": [
+    {
+      "defaultSubject": "sda",
+      "src": "src/server/data/343242/sda/students.json",
+      "hits": 0
+    }
+  ]
+}
